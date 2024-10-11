@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  font-family: Roboto;
+}
+h1 {
+  color: #0f172a;
+}
+p {
+  color: #334155;
+}
+.btn {
+  padding: 10px;
+  color: #1e293b;
+  border-radius: 12px;
+  border-width: 0px;
+}
